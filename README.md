@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-I'm a tech enthusiast with a passion for code and design wanna learn more interested<br> in many other fields apart from web like web3, machine learning, and AI I don't wanna <br>stop or be stuck I want to explore learn more, and more dedicated myself to lifelong <br>learning.
+As a highly skilled and experienced software engineer with 2-3 years of development experience in various fields, I am passionate about building and breaking things and excel both independently and as part of a team. My reputation for diving deep and finding innovative solutions in unexpected places precedes me, and I thrive in fast-paced, dynamic environments. Whether working on complex projects or tackling new challenges, I bring a meticulous attention to detail and a passion for delivering high-quality results. As a full stack web developer, I am excited to bring my expertise to your team and collaborate on new opportunities.
 
 <br/>
 
