@@ -12,11 +12,13 @@ I'm a tech enthusiast with a passion for code and design wanna learn more intere
 
 ### ⭐ Successfully completed a comprehensive 12-month Full Stack Web Development Bootcamp, acquiring in-depth knowledge and practical experience in front-end and back-end web development technologies.
 
-### ⭐ Technical Content Writer whos wrote blogs on different topics.
+### ⭐ Selected as a participant in GirlScript Summer of Code, an esteemed open-source event, showcasing skills in coding, collaboration, and working with a diverse team of developers.
 
-### ⭐ Part of the open source organization.
+### ⭐ Mentored aspiring students, providing guidance and insights on career paths in the tech industry, particularly focusing on web development and helping them pave their way into the field.
 
-### ⭐ completed 6 month pesto full stack developer programme.
+### ⭐ Authored and published technology-focused blogs on various platforms, sharing knowledge and insights on emerging trends, best practices, and innovative solutions in web development.
+
+### ⭐ Completed multiple Udemy certifications and courses, expanding expertise in specific programming languages, frameworks, or technologies, and staying updated with industry advancements.
 
 <br>
 
