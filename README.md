@@ -10,7 +10,7 @@ I'm a tech enthusiast with a passion for code and design wanna learn more intere
 
 # Achievments:
 
-### ⭐ Publish 2 games on play store. participated in many Gamejams.
+### ⭐ Successfully completed a comprehensive 12-month Full Stack Web Development Bootcamp, acquiring in-depth knowledge and practical experience in front-end and back-end web development technologies.
 
 ### ⭐ Technical Content Writer whos wrote blogs on different topics.
 
