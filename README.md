@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-As a highly skilled and experienced software engineer with 2-3 years of development experience in various fields, I am passionate about building and breaking things and excel both independently and as part of a team. My reputation for diving deep and finding innovative solutions in unexpected places precedes me, and I thrive in fast-paced, dynamic environments. Whether working on complex projects or tackling new challenges, I bring a meticulous attention to detail and a passion for delivering high-quality results. As a full stack web developer, I am excited to bring my expertise to your team and collaborate on new opportunities.
+As a highly skilled and experienced software engineer with experience in various fields, I am passionate about building and breaking things and excel both independently and as part of a team. My reputation for diving deep and finding innovative solutions in unexpected places precedes me, and I thrive in fast-paced, dynamic environments. Whether working on complex projects or tackling new challenges, I bring a meticulous attention to detail and a passion for delivering high-quality results. As a full stack web developer, I am excited to bring my expertise to your team and collaborate on new opportunities.
 
 <br/>
 
